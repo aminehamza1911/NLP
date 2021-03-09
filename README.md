@@ -3,7 +3,7 @@
 
 You will find the Docker on:
 
-----------> https://hub.docker.com/repository/registry-1.docker.io/habiballaah/nlp-assignment
+----------> https://hub.docker.com/r/habiballaah/nlp-assignment
 
 Group members:
 
