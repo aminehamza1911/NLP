@@ -5,10 +5,16 @@ You will find the Docker on:
 
 ----------> https://hub.docker.com/r/habiballaah/nlp-assignment
 
-Group members:
+### Steps:
+- First excute: `docker pull habiballaah/nlp-assignment`
+- Second excute: `docker run docker.io/habiballaah/nlp-assignment:latest`
 
- 1- KECHOUT Habib-Allah
+PS: Both commands must be run with sudo.
+
+### Group members:
+
+ 1. KECHOUT Habib-Allah
  
- 2- TEZKRATT Nazim
+ 2. TEZKRATT Nazim
  
- 3- AMINE Hamza
+ 3. AMINE Hamza
